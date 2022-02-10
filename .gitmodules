@@ -1,0 +1,3 @@
+[submodule "Elements/TestA"]
+	path = Elements/TestA
+	url = https://github.com/florian30491/TestA.git
